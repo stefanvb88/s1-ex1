@@ -10,7 +10,7 @@ You can add some code:
 You can write a list:
 - Bread
 - Milk
-- ~~Oreos~~ 
+- ~~Oreos~~
 
 You can also add some tasks:
 - [x] Write a readme
