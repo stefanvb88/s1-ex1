@@ -22,7 +22,7 @@ List:
 
 You can also add some tasks:
 - [x] Write a readme
-- [x] Finish the python course
+- [ ] Finish the python course
 - [ ] Profit
 
 [More on how to write readmes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
