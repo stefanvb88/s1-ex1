@@ -24,7 +24,7 @@ List:
 You can also add some tasks:
 - [x] Write a readme
 - [ ] Finish the python course
-- [x] Profit
+- [ ] Profit
 
 [More on how to write readmes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
  
